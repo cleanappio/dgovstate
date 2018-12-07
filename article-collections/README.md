@@ -1,4 +1,4 @@
-# Researches by Topic
+# Research by Topic
 
 Additional topics:
 
